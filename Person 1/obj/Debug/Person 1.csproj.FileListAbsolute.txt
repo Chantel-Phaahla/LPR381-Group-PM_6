@@ -1,0 +1,16 @@
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\bin\Debug\Person 1.exe.config
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\bin\Debug\Person 1.exe
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\bin\Debug\Person 1.pdb
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\obj\Debug\Person 1.csproj.AssemblyReference.cache
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\obj\Debug\Person 1.csproj.CoreCompileInputs.cache
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\obj\Debug\Person 1.exe
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\obj\Debug\Person 1.pdb
+C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\obj\Debug\Person 1.exe.config
+C:\Users\chant\Downloads\Person 1\bin\Debug\Person 1.exe.config
+C:\Users\chant\Downloads\Person 1\bin\Debug\Person 1.exe
+C:\Users\chant\Downloads\Person 1\bin\Debug\Person 1.pdb
+C:\Users\chant\Downloads\Person 1\obj\Debug\Person 1.csproj.AssemblyReference.cache
+C:\Users\chant\Downloads\Person 1\obj\Debug\Person 1.exe.config
+C:\Users\chant\Downloads\Person 1\obj\Debug\Person 1.csproj.CoreCompileInputs.cache
+C:\Users\chant\Downloads\Person 1\obj\Debug\Person 1.exe
+C:\Users\chant\Downloads\Person 1\obj\Debug\Person 1.pdb

@@ -1,0 +1,37 @@
+================================================================================
+           LINEAR PROGRAMMING MODEL
+================================================================================
+
+File Source: C:\Users\chant\OneDrive\Desktop\Linear Programming\Person 1\input.txt
+Created: 2026-08-24 16:01:24
+Valid: No
+
+OBJECTIVE:
+  Maximize: 2,000x1 + 3,000x2 + 3,000x3 + 5,000x4 + 2,000x5 + 4,000x6 
+
+CONSTRAINTS:
+
+SIGN RESTRICTIONS:
+  x1: binary {0,1}
+  x2: binary {0,1}
+  x3: binary {0,1}
+  x4: binary {0,1}
+  x5: binary {0,1}
+  x6: binary {0,1}
+
+================================================================================
+PARSING ERRORS:
+  ✗ Constraint line 2 has insufficient tokens. Expected 8, got 7
+
+================================================================================
+MODEL STATISTICS:
+  Variables: 6
+  Constraints: 0
+  Integer Variables: 0
+  Binary Variables: 6
+  Unrestricted Variables: 0
+  Model is INVALID
+
+================================================================================
+           END OF MODEL
+================================================================================
